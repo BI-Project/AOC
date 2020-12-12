@@ -6,7 +6,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no"/>
     <meta name="description" content=""/>
     <meta name="author" content=""/>
-    <title>TOKTOC</title>
+    <title>AOC</title>
     <link rel="icon" type="image/x-icon" href="assets/img/favicon.ico"/>
     <!-- Font Awesome icons (free version)-->
     <script src="https://use.fontawesome.com/releases/v5.13.0/js/all.js" crossorigin="anonymous"></script>
@@ -106,6 +106,7 @@
             }
         }
 
+
     </style>
 
     <link href='https://fonts.googleapis.com/css?family=Lato:300,400,700' rel='stylesheet' type='text/css'>
@@ -115,7 +116,7 @@
 <!-- Navigation-->
 <nav class="navbar navbar-expand-lg navbar-light fixed-top" id="mainNav">
     <div class="container">
-        <a class="navbar-brand js-scroll-trigger" href="{% url 'home' %}">TOKTOC</a>
+        <a class="navbar-brand js-scroll-trigger" href="{% url 'home' %}">AOC</a>
         <button class="navbar-toggler navbar-toggler-right" type="button" data-toggle="collapse"
                 data-target="#navbarResponsive" aria-controls="navbarResponsive" aria-expanded="false"
                 aria-label="Toggle navigation">Menu<i class="fas fa-bars"></i></button>
@@ -143,10 +144,10 @@
     <div class="container">
         <div class="row">
             <div class="col-lg-8 mx-auto">
-                <h2 class="text-white mb-4" style="font-size: 50px;font-weight: bolder">Evaluation Of Two IR Models</h2>
-                <p class="text-white-50">We conducted evaluation based on both Topical Modeling and Sentiment
+                <h2 class="text-white mb-4" style="font-size: 50px;font-weight: bolder">Evaluation Of Two Models</h2>
+                <p class="text-white-50">We conducted evaluation based on both Skipgram and Cbow
                     Analysis.<br>
-                    For more information, click <a href="https://github.com/StackOfMusic/TOKTOC">https://github.com/StackOfMusic/TOKTOC</a>.
+                    For more information, click <a href="https://github.com/BI-Project/AOC">https://github.com/BI-Project/AOC</a>.
                 </p>
             </div>
         </div>
@@ -176,6 +177,7 @@
                     return x.toString().replace(/\B(?=(\d{3})+(?!\d))/g, ",");
                 }
 
+
             </script>
             <div class="col-lg-5">
                 <div class="bg-black text-center h-100 project">
@@ -184,12 +186,12 @@
                         <div class="card-header">
                             <h3 class="card-title" style="margin-top: 2%">
                                 <i class="far fa-chart-bar"></i>
-                                Sentiment Evaluation
+                                Model Evaluation
                             </h3>
                         </div>
                         <!-- /.card-header -->
                         <p class="text-center" style="font-weight: bolder;font-size: 20px;margin-top: 8%">
-                            <strong>Sentiment Accuracy</strong>
+                            <strong>Model Accuracy</strong>
                         </p>
                         <div class="progress-group" style="width: 80%;margin-left: 10%">
                             67% correct
@@ -208,68 +210,44 @@
                 <div class="bg-black text-center h-100 project">
                     <div class="card">
                         <div class="card-header" style="margin-top: 2%">
-                            <h3 class="card-title">F-measure Evaluation</h3>
+                            <h3 class="card-title">Skipgram vs CBOW</h3>
                         </div>
                         <!-- /.card-header -->
                         <div class="card-body">
-                            <table id="example2" class="table table-bordered table-hover">
-                                <thead>
-                                <tr>
-                                    <th></th>
-                                    <th style="color: blue;">Relevant</th>
-                                    <th style="color: red;">NonRelevant</th>
-                                </tr>
-                                </thead>
-                                <tbody>
-                                <tr>
-                                    <td>Retrieved</td>
-                                    <td>15
-                                    </td>
-                                    <td>1</td>
-
-                                </tr>
-                                <tr>
-                                    <td>Not Retrieved</td>
-                                    <td>12
-                                    </td>
-                                    <td>infinite</td>
-                                </tr>
-                            </table>
-                        </div>
-                        <div class="card-body" style="margin-top: -2%">
-                            <div class="row" id="donut">
-                                <div class="col-6 col-md-4">
-                                    <h1 style="font-weight: 900;font-size: 70px;color: Green">0.82</h1>
-                                    <div class="knob-label" disabled='disabled'>Precision</div>
-                                </div>
-                                <div class="col-6 col-md-4 text-center">
-                                    <h1 style="font-weight: 900;font-size: 70px;color: orange">0.56</h1>
-                                    <div class="knob-label" disabled='disabled'>Recall</div>
-                                </div>
-                                <div class="col-6 col-md-4 text-center">
-                                    <h1 style="font-weight: 900;font-size: 70px;color: red">0.7</h1>
-
-                                    <div class="knob-label" style="margin-top: 5%" disabled='disabled'>F-measure</div>
-                                </div>
+                            <div class="d-flex">
+                                <p class="d-flex flex-column">
+                                    <span class="text-bold text-lg">Bar Chart</span>
+                                    <span>Positive / Negative</span>
+                                </p>
+                                <p class="ml-auto d-flex flex-column text-right">
+                            <span class="text-success">
+                              <i class="fas fa-arrow-up"></i> 30.97%
+                            </span>
+                                    <span class="text-muted">Since last year</span>
+                                </p>
                             </div>
-                            <script>
-                            $("#donut").addClass("disabledbutton");
+                            <!-- /.d-flex -->
 
-                            </script>
-                            <style>
-                                .disabledbutton {
-                                    pointer-events: none;
-                                }
+                            <div class="position-relative mb-4">
+                                <canvas id="sales-chart" height="200"></canvas>
+                            </div>
 
-                            </style>
+                            <div class="d-flex flex-row justify-content-end">
+                          <span class="mr-2">
+                            <i class="fas fa-square text-primary"></i> Skipgram
+                          </span>
+
+                                <span>
+                            <i class="fas fa-square text-gray"></i> Cbow
+                          </span>
+                            </div>
                         </div>
+                        <!-- /.card-body -->
                     </div>
-                    <!-- /.card-body -->
                 </div>
             </div>
-        </div>
 
-    </div>
+        </div>
 </section>
 <!-- Signup-->
 <section class="signup-section" id="projects">
@@ -324,7 +302,7 @@
 </section>
 <!-- Footer-->
 <footer class="footer bg-black small text-center text-white-50">
-    <div class="container">TOKTOC</div>
+    <div class="container">AOC</div>
 </footer>
 <!-- Bootstrap core JS-->
 <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
@@ -574,6 +552,11 @@
         setTimeout(mdraw, mrefreshinterval);
     }
 
+
 </script>
+
+<!-- OPTIONAL SCRIPTS -->
+<script src='{% static "plugins/chart.js/Chart.min.js" %}'></script>
+<script src='{% static "dist/js/pages/dashboard3.js" %}'></script>
 </body>
 </html>

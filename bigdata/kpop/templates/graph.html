@@ -128,6 +128,10 @@
             margin: 0 auto;
         }
 
+
+
+
+
     </style>
 
     <link href='https://fonts.googleapis.com/css?family=Lato:300,400,700' rel='stylesheet' type='text/css'>
@@ -162,15 +166,95 @@
 <section class="signup-section text-center">
     <div class="container">
         <div class="row">
-            <div class="col-6" id="2019" style="color: whitesmoke;font-size: 50px; font-weight: bolder;">2019</div>
             <div class="col-6" id="2020" style="color: whitesmoke;font-size: 50px; font-weight: bolder;">2020</div>
+            <div class="col-6" id="keywords" style="color: whitesmoke;font-size: 50px; font-weight: bolder;">keywords
+            </div>
 
         </div>
         <br>
         <div class="row">
 
-            <div class="col-6" id="wordcloud"></div>
             <div class="col-6" id="wordcloud2"></div>
+            <div class="col-6" style="margin-top: 20px; ">
+
+                <!-- /.card-header -->
+                <div class="card-body">
+                    <table class="table table-bordered" id="tab1" style="color:white">
+                        <thead>
+                        <tr>
+                            <th style="width: 10px">#</th>
+                            <th>Keywords</th>
+                            <th>Weight</th>
+                            <th style="width: 40px">Label</th>
+                        </tr>
+                        </thead>
+                        <tbody>
+                        <tr>
+                            <td>1.</td>
+                            <td>BlackPink</td>
+                            <td>
+                                <div class="progress progress-xs">
+                                    <div class="progress-bar progress-bar-danger bg-danger" style="width: 85%"></div>
+                                </div>
+                            </td>
+                            <td><span class="badge bg-danger">85%</span></td>
+                        </tr>
+                        <tr>
+                            <td>2.</td>
+                            <td>BTS</td>
+                            <td>
+                                <div class="progress progress-xs">
+                                    <div class="progress-bar bg-warning" style="width: 70%"></div>
+                                </div>
+                            </td>
+                            <td><span class="badge bg-warning">70%</span></td>
+                        </tr>
+                        <tr>
+                            <td>3.</td>
+                            <td>idols</td>
+                            <td>
+                                <div class="progress progress-xs progress-striped active">
+                                    <div class="progress-bar bg-primary" style="width: 40%"></div>
+                                </div>
+                            </td>
+                            <td><span class="badge bg-primary">40%</span></td>
+                        </tr>
+                        <tr>
+                            <td>4.</td>
+                            <td>Singer</td>
+                            <td>
+                                <div class="progress progress-xs progress-striped active">
+                                    <div class="progress-bar bg-success" style="width: 30%"></div>
+                                </div>
+                            </td>
+                            <td><span class="badge bg-success">30%</span></td>
+                        </tr>
+                        <tr>
+                            <td>5.</td>
+                            <td>Jimin</td>
+                            <td>
+                                <div class="progress progress-xs progress-striped active">
+                                    <div class="progress-bar bg-success" style="width: 15%"></div>
+                                </div>
+                            </td>
+                            <td><span class="badge bg-success">15%</span></td>
+                        </tr>
+                        <tr>
+                            <td>6.</td>
+                            <td>Psy</td>
+                            <td>
+                                <div class="progress progress-xs progress-striped active">
+                                    <div class="progress-bar bg-success" style="width: 4%"></div>
+                                </div>
+                            </td>
+                            <td><span class="badge bg-success">4%</span></td>
+                        </tr>
+
+                        </tbody>
+                    </table>
+                </div>
+                <!-- /.card-body -->
+            </div>
         </div>
         <br>
         <script>
@@ -223,7 +307,7 @@
                     .text(function(d) { return d.text; });
 
             }
-            var myWords2 = [{word: "COVID", size: "80"}, {word: "pandemic", size: "40"}, {word: "Shincheonji", size: "30"}, {word: "infection", size: "10"}, {word: "iran", size: "10"}, {word: "KBO", size: "50"} , {word: "itaewon", size: "30"} , {word: "Daegu", size: "40"} , {word: "nuclear", size: "20"} , {word: "church", size: "10"} , {word: "patients", size: "40"}, {word: "baseball", size: "30"} , {word:"Voter", size: "20"} , {word: "distancing", size: "20"}, {word: "cryptocurrency", size: "20"}, {word: "positive", size: "40"} , {word: "Virus", size: "60"} , {word: "KBO", size: "50"}    ]
+            var myWords2 = [{word: "BlackPink", size: "80"}, {word: "BTS", size: "70"}, {word: "dance", size: "30"}, {word: "singer", size: "10"}, {word: "COVID19", size: "15"}, {word: "idols", size: "40"} , {word: "KOREA", size: "25"} , {word: "EXO", size: "40"} , {word: "Jimin", size: "20"} , {word: "artist", size: "15"} , {word: "BillBoard", size: "30"}, {word: "Groups", size: "30"} , {word:"MAMA", size: "20"} , {word: "Blink", size: "20"}, {word: "global", size: "20"}, {word: "Grammy", size: "40"} , {word: "Dynamite", size: "50"}    ]
             // set the dimensions and margins of the graph
 
 
@@ -267,6 +351,10 @@
             }
 
 
+
+
+
+
         </script>
 
     </div>
@@ -283,80 +371,73 @@
                             <div class="card">
                                 <div class="card-header border-0">
                                     <div class="d-flex justify-content-between">
-                                        <h3 class="card-title">Sentiment Analaysis</h3>
+                                        <h3 class="card-title">SKIPGRAM</h3>
                                     </div>
                                 </div>
                                 <div class="card-body">
-                                    <div class="d-flex">
-                                        <p class="d-flex flex-column">
-                                            <span class="text-bold text-lg">Line-Chart</span>
-                                            <span>Positive / Negative</span>
-                                        </p>
-                                        <p class="ml-auto d-flex flex-column text-right">
-                            <span class="text-success">
-                              <i class="fas fa-arrow-up"></i> 30.97%
-                            </span>
-                                            <span class="text-muted">Since last year</span>
-                                        </p>
-                                    </div>
-                                    <!-- /.d-flex -->
+                                    <table id="example2" class="table table-bordered table-hover">
+                                        <thead>
+                                        <tr>
+                                            <th></th>
+                                            <th style="color: blue;">Euclid</th>
+                                            <th style="color: red;">Cos Similarity</th>
+                                        </tr>
+                                        </thead>
+                                        <tbody>
+                                        <tr>
+                                            <td>BTS vs Dynamite</td>
+                                            <td>0.92
+                                            </td>
+                                            <td>0.89</td>
 
-                                    <div class="position-relative mb-4">
-                                        <canvas id="visitors-chart" height="200"></canvas>
-                                    </div>
-
-                                    <div class="d-flex flex-row justify-content-end">
-                          <span class="mr-2">
-                            <i class="fas fa-square text-primary"></i> 2020 YEAR
-                          </span>
-
-                                        <span>
-                            <i class="fas fa-square text-gray"></i> 2019 YEAR
-                          </span>
-                                    </div>
+                                        </tr>
+                                        <tr>
+                                            <td>BlackPink vs BTS</td>
+                                            <td>0.48
+                                            </td>
+                                            <td>0.42</td>
+                                        </tr>
+                                    </table>
                                 </div>
+
+
                             </div>
                             <!-- /.card -->
-
-
                         </div>
                         <!-- /.col-md-6 -->
                         <div class="col-lg-6">
                             <div class="card">
                                 <div class="card-header border-0">
                                     <div class="d-flex justify-content-between">
-                                        <h3 class="card-title">Sentiment Analaysis</h3>
+                                        <h3 class="card-title">CBOW</h3>
                                     </div>
                                 </div>
                                 <div class="card-body">
-                                    <div class="d-flex">
-                                        <p class="d-flex flex-column">
-                                            <span class="text-bold text-lg">Bar Chart</span>
-                                            <span>Positive / Negative</span>
-                                        </p>
-                                        <p class="ml-auto d-flex flex-column text-right">
-                            <span class="text-success">
-                              <i class="fas fa-arrow-up"></i> 30.97%
-                            </span>
-                                            <span class="text-muted">Since last year</span>
-                                        </p>
-                                    </div>
-                                    <!-- /.d-flex -->
+                                    <table id="example3" class="table table-bordered table-hover">
+                                        <thead>
+                                        <tr>
+                                            <th></th>
+                                            <th style="color: blue;">Euclid</th>
+                                            <th style="color: red;">Cos Similarity</th>
+                                        </tr>
+                                        </thead>
+                                        <tbody>
+                                        <tr>
+                                            <td>BTS vs Dynamite</td>
+                                            <td>0.94
+                                            </td>
+                                            <td>0.88</td>
 
-                                    <div class="position-relative mb-4">
-                                        <canvas id="sales-chart" height="200"></canvas>
-                                    </div>
-
-                                    <div class="d-flex flex-row justify-content-end">
-                          <span class="mr-2">
-                            <i class="fas fa-square text-primary"></i> 2020 YEAR
-                          </span>
-
-                                        <span>
-                            <i class="fas fa-square text-gray"></i> 2019 YEAR
-                          </span>
-                                    </div>
+                                        </tr>
+                                        <tr>
+                                            <td>BlackPink vs BTS</td>
+                                            <td>0.52
+                                            </td>
+                                            <td>0.44</td>
+                                        </tr>
+                                    </table>
                                 </div>
+
                             </div>
                             <!-- /.card -->
 
@@ -369,76 +450,7 @@
                 <!-- /.container-fluid -->
             </div>
             <!-- /.content -->
-            <div class="card" style="margin-top: 50px;">
-                <div class="card-header">
-                    <h3 class="card-title" style="font-weight: bolder">Extracted keywords</h3>
-                </div>
-                <!-- /.card-header -->
-                <div class="card-body">
-                    <table class="table table-bordered" id="tab1">
-                        <thead>
-                        <tr>
-                            <th style="width: 10px">#</th>
-                            <th>Keywords</th>
-                            <th>Weight</th>
-                            <th style="width: 40px">Label</th>
-                        </tr>
-                        </thead>
-                        <tbody>
-                        <tr>
-                            <td>1.</td>
-                            <td>COVID19</td>
-                            <td>
-                                <div class="progress progress-xs">
-                                    <div class="progress-bar progress-bar-danger bg-danger" style="width: 85%"></div>
-                                </div>
-                            </td>
-                            <td><span class="badge bg-danger">85%</span></td>
-                        </tr>
-                        <tr>
-                            <td>2.</td>
-                            <td>Pandemic</td>
-                            <td>
-                                <div class="progress progress-xs">
-                                    <div class="progress-bar bg-warning" style="width: 70%"></div>
-                                </div>
-                            </td>
-                            <td><span class="badge bg-warning">70%</span></td>
-                        </tr>
-                        <tr>
-                            <td>3.</td>
-                            <td>KBO</td>
-                            <td>
-                                <div class="progress progress-xs progress-striped active">
-                                    <div class="progress-bar bg-primary" style="width: 50%"></div>
-                                </div>
-                            </td>
-                            <td><span class="badge bg-primary">30%</span></td>
-                        </tr>
-                        <tr>
-                            <td>4.</td>
-                            <td>Parasite</td>
-                            <td>
-                                <div class="progress progress-xs progress-striped active">
-                                    <div class="progress-bar bg-success" style="width: 30%"></div>
-                                </div>
-                            </td>
-                            <td><span class="badge bg-success">s0%</span></td>
-                        </tr>
-                        </tbody>
-                    </table>
-                </div>
-                <!-- /.card-body -->
-                <div class="card-footer clearfix">
-                    <ul class="pagination pagination-sm m-0 float-right">
-                        <li class="page-item"><a class="page-link" href="#">&laquo;</a></li>
-                        <li class="page-item"><a class="page-link" href="#tab1">1</a></li>
-                        <li class="page-item"><a class="page-link" href="#">2</a></li>
-                        <li class="page-item"><a class="page-link" href="#">3</a></li>
-                        <li class="page-item"><a class="page-link" href="#">&raquo;</a></li>
-                    </ul>
-                </div>
-            </div>
+
         </div>
         <!-- /.content-wrapper -->
     </div>
