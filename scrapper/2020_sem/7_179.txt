@@ -1,0 +1,130 @@
+
+• Ethereum passes up Bitcoin in daily settlement value
+• US allows banks to act as crypto custodians
+
+From the Editor’s Desk
+
+
+
+Dear Reader,
+
+
+
+As Covid-19 cases surge across America, and businesses desperately seek help from the $660 billion Paycheck Protection Program (PPP) to financially survive the pandemic… a Forkast.News investigation has discovered that 10 blockchain companies sanctioned by the Securities Exchange Commission for fraud and other wrongdoing were able to obtain PPP funds. To be clear, there is no indication that these companies obtained these funds fraudulently or in violation of any other laws. But it does violate the common sense rule. If there are limited funds, why is valuable taxpayer money (PPP) going to companies that another taxpayer-funded government agency (SEC) has already identified as a bad actor? We are simply asking the question that U.S. taxpayers and watchdog groups might want answered.
+
+
+
+It’s one thing to address a financial crisis with a bailout, it’s another to do it without taking into consideration the technology that is at our fingertips to ensure aid goes directly into the hands of the people and businesses it is intended for most. Blockchain and digital fiat can be a powerful ally here. Why aren’t we seeing this implemented more thoughtfully using the technology we have? $660 billion is a lot of money we’re borrowing from the next generation. There must be accountability.
+
+
+
+It’s one of the many developments we’re tracking this week on The Current Forkast. Things are getting stormy around the world as it pertains to Covid-19 — socially, politically and financially. Most worrisome are the number of lives the pandemic exponentially keeps claiming. Let’s stay safe out there. Please wear a mask.
+
+
+
+Until the next time, 
+
+
+
+Angie Lau,
+
+Founder and Editor-in-Chief
+
+By the numbers: Paycheck Protection Program— 650% increase in Google search volume
+
+A Forkast.News investigation has found that 10 crypto companies that have been sanctioned by the SEC also received U.S. Paycheck Protection Program funds intended for small businesses struggling to make payroll in the pandemic economy. Some of the crypto companies that received PPP financial aid either had no connection to the U.S. or re-incorporated in other jurisdictions, perhaps to avoid scrutiny from American regulators.
+• Our report spotlights three firms that previously had been in SEC crosshairs and also received PPP funds.
+• Cherubim Interests, run by former Baltimore Ravens wide receiver Patrick Johnson, received between $150,000 and $350,000 in PPP funds. Cherubim previously was the recipient of a February 2018 cease trade order by the SEC for inaccuracies in documents and disclosures for its stock listing. Cherubim also ran an ICO in early 2018 called the “The Self Sustaining Intentional Communities Coin.” In mid-2018, Johnson re-incorporated his companies in Canada.
+• Paragon Coin, Inc., a company that claimed to “change the cannabis industry as you know it” and ran an ICO that reportedly netted up to $70 million, received between $1,000 and $150,000 in PPP funding. The company’s website only contains an April 2020 bankruptcy notice. Wikipedia lists the main founder’s location as the Dominican Republic.
+
+The complete Forkast.News investigative report and list of SEC-sanctioned, PPP-receiving crypto companies can be found here.
+
+2. Ethereum passes up Bitcoin in one popularity measure
+
+By the numbers: Ethereum — 1,200% increase in Google search volume.
+
+Ethereum explodes into the headlines, as stablecoins propel the open-source blockchain past Bitcoin to become the world’s most popular blockchain in daily settlement value. According to the cryptocurrency database Messari’s Q2 report, Ethereum-reliant DeFi also had a breakout quarter with its total value locked (TVL), surpassing US$ 2 billion behind Compound’s liquidity mining program.
+• The monetary base of stablecoins surpassed the $8 billion mark in Q1 of 2020. By the end of Q2, this number has been pushed to over $12 billion. USDT alone exceeded US$ 10 billion in late June.
+• Compound’s reign of DeFi dominance ended early this week, with Maker regaining its throne, and Aave zooming into second.
+
+Forkast.Insights | What does it mean?
+
+
+
+Ethereum usurping Bitcoin in daily settlement value (which, to be sure, is a very different metric than circulation) was an eventuality. Bitcoin’s actual utility is quite limited compared to Ethereum: You can’t create tokens to represent other assets, you can’t build dApps, and you can’t settle transactions as quickly as you can with Ethereum. This is why stablecoins, which are the next generation of crypto liquidity, are built on Ethereum, and this is why DeFi largely calls this blockchain its home. 
+
+
+
+Bitcoin is great as a store of value. Its maturity means it has a major lead in volume and overall market capitalization. In any sort of digital asset portfolio, bitcoin will be present just like any savvy investor usually holds precious metals. Don’t forget that from its outset, Ethereum was intended to be a platform, while Bitcoin is primarily a cryptocurrency. As the blockchain industry matures, eventually the platform that’s the underlying infrastructure — the enabler — will begin to chase Bitcoin in value when utility trumps ubiquity, or, rather, becomes ubiquitous.
+
+3. Romantic Hacker, coming for your heart soon
+
+By the numbers: Romantic Hacker — 5,000% increase in Google search volume.
+
+Get ready for a crypto love story. Crypto-themed K-drama series “Romantic Hacker” is set to hit the airwaves in October. As the show will feature K-pop stars Viini (Kwon Hyun-bin) and Lim Na-young, it is expected to target the younger demographic.
+• The South Korean public is no stranger to cryptocurrencies, as observed in the 2017-18 “kimchi premium” arbitrage, where the price of bitcoin in South Korea was higher than in other countries. South Korean traders purchased bitcoins on foreign exchanges, then sold in South Korean exchanges to profit from the price gap.
+• The South Korean government has also started speeding up its blockchain adoption. Earlier this month, President Moon Jae-in unveiled his government’s stimulus package, the “Korean New Deal,” where the government plans to invest US$ 130 billion in promoting a low-carbon and eco-friendly economy, as well as digital technologies of the Fourth Industrial Revolution, such as blockchain.
+
+Forkast.Insights | What does it mean? 
+
+ 
+
+At Forkast.News, we’ve been covering how blockchain technology has been entering the mainstream consciousness. A few weeks ago, we thought we reached the pinnacle of culture penetration when we reported that China’s Gaokao — the college entrance exam taken by an enormous cross-section of Chinese society — mentioned bitcoin mining in a prep question. This elevated China’s blockchain industry to the level of the Belt and Road Initiative and the 11th Five-Year Plan, which also appeared in the Gaokao when they entered the national conversation. 
+
+
+
+But Korean dramas are on a whole different level of popular imagination. Korea’s culture industry defines the zeitgeist in Korea and has become increasingly influential outside of Korea as well. The insane popularity of these dramas means that crypto will now become part of the contemporary Korean cultural cannon and beyond. 
+
+
+
+But it’s also reflective of a shift in Korean society away from its traditional industries to a service-based economy. A Covid recession and uncertainty stemming from the continued U.S.-China trade war means that Korea has ground to a halt, and there is a big interest in bringing the country up the economic value chain. Writers of Korean dramas usually have their finger on the pulse of culture and what is trending. Casting crypto in such a prominent role — as a romantic lead no less — suggests not only acceptance but also longing in Korea’s relationship with it: crypto as an alternative investment class, and blockchain as a piece of the technological infrastructure that will power the next industrial revolution.
+
+By the numbers: OCC — 2,200% increase in Google search volume.
+
+The United States Office of the Comptroller of the Currency (OCC) grants national banks and federal savings associations to act as cryptocurrency custodians, allowing major banks and institutions to keep custody of users’ private keys. The public letter was a response to a request for clarification from an unknown party and did not change existing stances.
+• Digital Currency Group CEO @barrysilbert: I’m looking forward to getting my ass kissed by all the banks now.
+• Binance CEO @cz_binance: I hear banks are getting into #crypto.
+
+Forkast.Insights | What does it mean?
+
+ 
+
+One of the hottest growing sectors of the crypto economy has been the digital assets custody business. As an antidote to the exchange megahacks, or disappearing assets like in the case of Quadriga CX, some of the biggest names in the traditional custodian business like Fidelity are creating digital vaults to store these crypto assets. Not just cryptocurrency, mind you, but other sorts of assets like tokenized commodities. 
+
+
+
+But until recently it looked like this industry would be clustered in Hong Kong. In late 2019, the SAR government’s Securities and Futures Commission wrote a regulatory framework that would allow the industry to kick off in the territory. That part was expected. What is unexpected is how open-minded U.S. regulators are becoming to crypto. There’s a trifecta of crypto-friendly faces at senior levels of America’s most important financial regulators — the SEC, with “Crypto Mom” Hester Peirce as one of its commissioners, the CFTC, which is pursuing an extensive regulatory framework by 2024, and the Office of the Comptroller of Currency, which is now run by a former Coinbase lawyer.
+
+
+
+Suddenly, America seems more competitive as a jurisdiction for crypto capital formation. Lawmakers like Rep. Warren Davidson of Ohio, who sponsored the Token Taxonomy Act, and regulators like Peirce, who admits to doing “soul searching” over the potentially innovation-stifling Howey Test, both seem to be on the same page: build it and they will come. The momentum is unstoppable, at this rate the U.S. has a very good chance of attracting many of the top crypto projects back from offshore jurisdictions like Hong Kong or Singapore.
+
+China’s Blockchain Service Network (BSN) has integrated six public chains, including Tezos, NEO, Nervos, EOS, IRISnet and Ethereum into its network to further extend its global reach.
+• Starting August 10, BSN developers will be able to build decentralized apps (dApps) on one of the six public chains and operate the dApps not only in China but around the world through BSN’s international portals.
+• This expansion is an implementation of the BSN white paper, which reads: “BSN will continue to adapt for global mainstream consortium blockchain and public blockchain frameworks.” According to a local report, each month an additional three to five public chains will be added to the BSN International ecosystem.
+
+Forkast.Insights | What does it mean? 
+
+ 
+
+It’s important to remember that while BSN is a China-based platform, it’s designed to be an international project. With that in mind, while BSN expands its support for new chains to fulfill its mandate of technological agnosticism, users within China won’t be able to use them. Local law prohibits blockchain nodes from running blockchains in China that also offer a token. 
+
+
+
+There still is value in adding this level of support and building the expansion for users abroad. It can be seen as a way for international blockchain companies to create a bridge into the Chinese blockchain industry. Inversely, BSN can be seen as a way to globalize Chinese blockchain tech.
+
+
+
+But for BSN to really take off, there needs to be more buy-in from the local Chinese blockchain community. If you compare Weibo to Twitter followers, there appears to be a lot more interest from the West in BSN than inside China. On Twitter, BSN has a few thousand followers and is growing fast. On Weibo, that number is only a few dozen.
+
+Indian fintech startup Jodo raised $3.8 million following a collective sale of 26.18% of its original equity. The transaction involved Chinese VC firm SAIF Partners and San Francisco’s Matrix Partners. Jodo aims to provide parents with monthly installments of traditionally one-time school tuition fees. The firm’s three co-founders have all previously worked for Matrix Partners.
+
+Singaporean financial tech firm Percipient has raised $5 million from Stat Zero, a Silicon Valley tech-focused VC firm. This brings its cumulative funds raised to $5.7 million. In a news release, the company stated that the incoming capital would be used to support its upcoming launch of an enterprise data platform designed for internal bank analytics. According to the company’s website, use cases of its products include contactless customer onboarding, instant card approval and real-time marketing analytics.
+
+Indian banking platform Finin raised an undisclosed amount of funding earlier this week from Unicorn India and American VC firm Astir Ventures. The platform, an online banking service, promises “AI-driven insights” on personal spending and “data-driven investment plans” for long-term shareholders. The company maintains a working relationship with Visa. In a public statement, the company stated that it would use the funds to further expand its consumer reach and develop operational capacity. Finin’s main product, a mobile app, is currently in a closed, invite-only beta phase.
+
+Forkast.Insights | What does it mean? 
+
+ 
+
+Everything is getting faster and faster nowadays — especially transactions. While it’s slowly phasing out in the West, the question of cash obsolescence is real amid the current crisis. The power of digital payments, in their transaction speed, is certainly impressive. With blockchain technology and AI-focused solutions, however, there could be a new virtual arms race with regional and supranational banks. As we’ve seen with challenger banks, there’s a lot of capital available for firms looking to disrupt the payments industry in Asia specifically. Above are three examples.

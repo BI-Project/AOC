@@ -1,0 +1,11 @@
+After the Dallas Police Department asked people to send videos of “illegal activity from the protests” happening in the city over the weekend using a special app called iWatch Dallas, K-pop fans flooded the software with content from their favorite artists and seemingly overloaded the reporting system in the process.
+
+The day after the Dallas Police Department tweeted out the original request, a secondary tweet confirmed that “due to technical difficulties iWatch Dallas app will be down temporarily.” Replies to both tweets are a mix of clips from various K-pop groups performing, games like Animal Crossing, anime GIFs, and other pop culture references calling out the request and later celebrating the app being down.
+
+K-pop fans crashed the app within a day of the original request
+
+Buzzfeed News reported that a number of one-star reviews appeared on the app’s landing page in both the Google Play and Apple’s App Store marketplaces. Those reviews were accompanied by hashtags for Black Lives Matter and abbreviations like ACAB, which stands for “all cops are bastards.” It’s unclear if traffic from the viral movement, which started on Twitter, led to the app crashing or if police took down the app once the increase in activity made it near-impossible to use, Buzzfeed News reported.
+
+The push to undermine relation efforts against protesters comes as police across the country erupted in violence toward demonstrators protesting police brutality in the wake of George Floyd’s death at the hands of a former Minneapolis police officer last week. Protests in New York City, Minneapolis, Atlanta, Dallas, Oakland, Los Angeles, Washington, DC., Seattle, and other cities have resulted in mass arrests and countless instances of violence against protesters and members of the press.
+
+As protesters continue to gather, some people are creating apps and programs that allow images and videos to be shared while also taking measures to protect individuals from doxxing and other retaliatory measures. One tool scrapes metadata from images and allows for selective blurring and blacking out of parts of the image to help protect protesters from different surveillance tactics that may be used by law enforcement.
