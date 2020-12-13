@@ -1,2 +1,2 @@
 # AOC
-Artist Of Korea
+Artist Of Korea (BTS, BlackPink etc...)
