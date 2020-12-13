@@ -1,0 +1,45 @@
+K-pop stans hold a special kind of power online. A power that can be used for good – to wage cyberwar for Black Lives Matter, say, or troll Trump rallies. But also a power capable of gathering the collective weight of 12 million Twitter accounts and hurling it directly at someone whose name sounds a bit like a K-pop band’s old back-up dancer.
+
+Lino Helms, a software developer from Berlin, knows this all too well. The 31-year-old was one of Twitter’s early adopters; in 2007, a year after the platform launched, he registered his first name as his handle, @lino. Ten years on, Lino’s account is totally unusable.
+
+This might seem like a bit of a stretch, but the name “Lino” sounds similar to “Lee Know”, a former dancer with mega-group BTS. Know has since left the world’s biggest boy band, and now sings and dances with the group Stray Kids. The star’s loyal fanbase is harassing Lino to give up his username, despite the fact that Twitter no longer allows four-letter handles. So while Lino can still use the handle, he couldn’t swap it, even if he wanted to.
+
+VICE: Hey Lino, what’s your favourite K-pop Band?
+
+ Lino: There are only wrong answers to this question! Even if I had one, I wouldn’t say, because there’s too much rivalry between fans of K-pop bands. I know that firsthand. Since the fans are mostly online, they’re easy to mobilise. At one point this summer I couldn't post a sentence without getting 600 videos sent to me. My Twitter account is now completely unusable.
+
+How did it all begin?
+
+ There’s been drama with my username, @lino, since 2015. For a while, there was a French rapper with the same name. His fans would send me pictures with guns because they wanted my account. When his tour was over, it stopped. But this [latest incident] was on a whole different level.
+
+So this has been happening to you for years?
+
+ Yes. After the rapper, it was an Italian actor named Lino. Lots of older ladies love that guy, but they were harmless. I noticed I’d get pictures of him, or movie posters when he released a new film. His fans wanted to talk about him, but didn’t really get Twitter, so they used my handle by accident.
+
+So what’s going on with the K-Pop stans?
+
+ Since 2017, personal accounts from the K-Pop scene have contacted me saying they wanted my username. I always just answered with "no" and that was the end of it. But then things escalated. At first, I was getting one message a day, then suddenly there were ten. People see that their friends are harassing me and won’t let me be. Some write me 200 messages.
+
+What kind of messages?
+
+ "My dog's name is Lino. He has cancer and has only two weeks to live…" or, "My late brother's name is Lino, please have a heart and give me your username.” I started blocking all of them, first manually, then automatically. I have to do that if I don’t want to just give up on the account altogether. I used a browser plugin called Twitter Block Chain that blocks individual users and their followers.
+
+Did this solve your problem?
+
+ No, because the fandom is so huge. The blockchain plugin can only block up to 1,000 followers, otherwise Twitter shuts down. It worked in the beginning, but it only takes one person to write: "Hey, do you remember this a-hole? Reply to this thread if you were also blocked by @lino." And everything ramps up again.
+
+Did you know Lee Know before this happened?
+
+ No. At first, I thought Lee Know was from BTS, but it turns out he was only a dancer and he now sings with another group. People had to explain it to me. Things suddenly ramped up on the first weekend of July [2020]. I told myself I needed an upgrade, so I built an application using the Twitter programming interface. Now, I can block an unlimited number of accounts. In the past few days I’ve blocked 11.8 million accounts, sometimes hundreds per second.
+
+How did you build your bot?
+
+ In layers. Everyone who follows the Stray Kids must go. But it’s pretty time-consuming, because they have almost three million followers. I also search for some keywords in my messages and filter those users out.
+
+Does it work?
+
+ Surprisingly well. But usually it’s not the white tech-bro type who gets harassed. It's game over for other people. They have to close their accounts for weeks and probably never open their timeline without fear again. If I wasn’t interested in tech, I’d give up too.
+
+You’ve become accidentally famous in South Korea. What do you think about that?
+
+ It’s pretty aggressive, but sometimes really funny. For example, people have registered dozens of fake accounts with my profile picture, "realLino01" or "realLino30". Then they publicly call me out, saying I hacked their usernames. Maybe coronavirus has made it more extreme because people are stuck at home.

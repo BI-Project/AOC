@@ -1,0 +1,53 @@
+Back in 2016, the once-notorious hacktivist group Anonymous fell apart. It was during the U.S. presidential campaign when Anonymous publicly announced two operations with conflicting political agendas: OpTrump vs. OpHillary. As a result, Anonymous fell apart due to internal fighting over political affiliation. What was left of Anonymous and their ‘newblood’ lingered on Facebook for the last four years, where they have tried to convince users that they were still relevant.
+
+I miss the old days of Anonymous; they didn’t have political objectives, nor did they care to be politically correct. They stood for letting everyone’s voice being heard and would amplify those in need, and on occasion, would silent those who needed a hard reality check. At the end of the day, some operations were questionable, but they were fighting for the oppressed. They engaged in activities where they would set hacktivists up on charges and then use them to conduct operations which they lacked any ability to do themselves.
+
+In my opinion, the demise of Anonymous was a result of power grabs and acts of subversion over political affiliation. After Anonymous fell apart in 2016, a new far-right conspiracy theory group called QAnon came out of the depths of 4chan to capitalize on the void left by Anonymous and began manipulating and controlling a digital army in a similar fashion. But, just like that, there was no more group organized Denial of Service attacks. No more mainstream defacement or digital protests.
+
+[You may also like: Ghosting Bots: The Story of Hoaxcalls Failures]
+
+But after four years, some have decided to pick up the mask and attempt to run a half-decade old playbook after George Floyd died at the hands of the Minneapolis Police on May 25th, 2020.
+
+As a result of the Floyd’s death, protests have erupted all over the United States and Europe. In general, all conflicts have both a physical and a cyber nature to them, even if one isn’t reported. And when a conflict reaches a certain level of social awareness, a silent hero typically steps up to fight for those who cannot.
+
+Concerning the death of George Floyd, there has been a massive cyber movement in alliance with the Black Lives Matter movement, including the alleged return of Anonymous. The problem is, old and established accounts have been blindly co-signing the activities without verification. And just like the later years of Anonymous, the new actors or old actors representing Anonymous don’t deliver.
+
+[You may also like: Who’s Viktor? Tracking down the XTC/Polaris Botnets.]
+
+Posting re-packed data used to be an old tactic. The objective was not to hack, but rather to manipulate and repack data so they could troll the media into creating headlines that were aligned with the general narrative of the operation. Long ago, Anonymous lost their ability to hack. Today they can only amplify legitimate or illegitimate content in an attempt to direct attention to a cause. In my opinion, Anonymous’s actions are in parallel with the type of person who knowingly gives counterfeit money to a charity.
+
+Take, for example, the alleged Minneapolis Police Department data breach. In a blog published by Troy Hunt, he examined the leak and concluded that the data was repackaged from prior data breaches.
+
+What about those reports of ‘Sophisticated Denial of Service Attacks”? I’m going to be brutally honest here. Companies will over-hype cyberattacks on their networks as a means to get more money for cyber defense. It’s amazing how quick a minor DoS attack becomes a sophisticated DDoS attack when money is involved, or new equipment needs to be justified. So, it came as no surprise to me when I heard people spinning up Anonymous DDoS hype.
+
+[You may also like: DDoS in the Time of COVID-19: Attacks and Raids]
+
+The problem is, the media is quicker nowadays and Anonymous is trying to pull outdated moves on a savvier generation of information security professionals.
+
+It didn’t take long for the main tool for OpMinneapolis to go through a public review that didn’t end well for the operators — or Governor Tim Walz or Tarek Tomes, Minnesota’s Chief Information Officer and the head of Minnesota IT services.
+
+In a statement posted to twitter by Minnesota IT Service, Tomes stated that MNIT’s Security Operation Center was defending against a distributed denial-of-service attack. And In a blog post, State Scoop reported that Gov. Tim Walz said the alleged DDoS attack was “very sophisticated”.
+
+The problem is, if they were paying attention to InfoSec twitter vs preparing a FUD statement, they would have seen that the community had already proven that Anonymous members AnonUSA and S0uL were pushing an outdated Layer 7 attack script on GitHub. And just in case you couldn’t run the script, they posted a tutorial on how to be a skid on YouTube. It is also suspected that the group was also using a tool called Bane. I will note, I find it hilarious that S0uL is cited in the Bane project and has a Bane avatar.
+
+Overblown claims of sophisticated DDoS attacks — confirmed. Plus, from my perspective, I have yet to see evidence suggesting any of these targets were the victim of a sophisticated botnet.
+
+To go even further, Anonymous was never known for building and maintaining a sophisticated botnet. In the past, Anonymous heavily relied on organizing volunteers to run scripts at a specific time from their devices. Today, the world record for the largest DDoS attack is a whooping 2.3Tbps CLDAP attack directed at Amazon. Anonymous never possessed the ability to launch such an attack. It was only offset groups such as Lulzsec and Lizard Squad that had cyber hand cannons and the ability to create a botnet that could reach 1Tbps.
+
+One thing is clear, the cyber events over the past few weeks have proven why Anonymous has become obsolete, highlighting the need for a new hacktivist group that doesn’t live off the names of the past. A group that has grown and evolved with the industry.
+
+While Anonymous regroups for a Black Lives Matter operation by beating up on unprotected sites in Kenya and internally fighting about Trump again, K-Pop fans have risen as the new hacktivist for justice, and I have to say, I think it’s time we cancel Anonymous and elect K-Pop fans as the final boss of the internet.
+
+[You may also like: 3 Reasons Why DDoS Protection is Your Best Investment]
+
+Did I lose you at K-Pop? If you have been living under a rock, K-Pop, Korean Pop, runs the internet nowadays and their fans roll deep. How deep? While @YourAnonCentral has 6.5 million followers, a single K-Pop group, BTS, has 26.4 million devout fans who will stop at nothing and do anything the groups get involved in. If a member wears a certain item, or post anything personal, it sends their fans into a frenzy.
+
+This is where K-Pop takes over while Anonymous deals with internal issues once again. During the Black Lives Matter protests in the United States, K-Pop fans decide to give those being oppressed a bigger voice (something Anonymous hasn’t been able to do in years). In Texas, the Dallas Police Department decided the Black Lives Matter protest gave them a perfect chance to test out their new app that allows people to report on protester activity. The Internet delivered.
+
+K-Pop fans leveraged the power of their digital army to cause service degradation for the iWatch app by flooding it with Fancam videos. This massive flood of content from unique users ultimately forced the app offline. And the best part, just like the old days of Anonymous raids, they used the power of their social botnet to support the protesters. No political affiliation. No subversion.
+
+Why K-pop Fans Are the New Anonymous
+
+There are a few reasons why I believe K-Pop fans are the new Anonymous. Mainly because they represent the old ways of Anonymous, back when activities were amplifying the oppressed or pranking those who needed a reality check. Back when the power of a social botnet was more powerful than an IoT botnet.
+
+I will give it to them, Anonymous tried to come back but they instantly repeated the very thing that caused them to fail in the first place. They faked data leaks, pushed outdated tools, and tried to get others to commit the crime for them. In my opinion, K-Pop did more for the protesters than Anonymous and because of that, they should be crowned as the final boss of the internet.
