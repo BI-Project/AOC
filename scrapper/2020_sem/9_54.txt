@@ -1,0 +1,69 @@
+Delivering the opening keynote at the virtual Okta Disclosure 2020 security conference on September 3, well-respected cybersecurity analyst the Grugq tackled the application of cyber power. During his highly informative presentation, the Grugq touched on how some non-states have more cyber power that nation-states. In particular, he mentioned K-pop band BTS and their devoted fan base, ARMY (it stands for Adorable Representative M.C for Youth, apparently), which undoubtedly have such cyber power.
+
+Estimated to be more than 100 million, BTS ARMY is 50 million strong alone, I took the question of whether the K-pop Stan phenomena should, then, be treated as part of the cyber threatscape to the people who should know best: the cybersecurity industry itself.
+
+The decentralized hacktivist movement called Anonymous was best known for taking collective action by way of international political protest, using a combination of hacking skills and distributed denial of service attacks as the weapon of choice. Ordinary people empowered with not only a voice, but a method of amplification that ensured that voice would be heard. That was before things fell apart with the arrest of core Anonymous members. However, Anonymous were, for a while, a credible cyber power. A collective power that some would argue now sits in the hands of K-pop fans.
+
+A taste of the kind of power that K-pop Stans, the generic name for these devoted and obsessed fans, possess was revealed during the Black Lives Matter protest when their social media presence was effectively weaponized. This led me to wonder if then, BTS ARMY and K-pop Stans were, in effect, the new Anonymous?
+
+Are K-pop Stans and BTS ARMY the new Anonymous?
+
+Daniel Smith, a security researcher at Radware, is in no doubt that K-pop stans and the BTS ARMY can be considered the new Anonymous. "They present the same risks and challenges to the threat landscape as Anonymous did in their prime," Smith says, "K-pop fans have been filling the void of an absent Anonymous." He says that this is certainly something of a "shift in non-state cyber power, from one group to the next, as the landscape evolves."
+
+By way of an example, Smith points to the way that K-pop Stans flooded the Dallas Police Department iWatch Dallas app during the George Floyd protests. The app, which enabled citizens to report on protestor activity, was bombarded with video clips of K-pop artists. "Anonymous used to have this type of following and power," Smith says, "I call it a social botnet, where an idea results in a natural flood of traffic."
+
+Charl van der Walt, head of security research at Orange Cyberdefense, has nothing but praise for the Grugq, calling him "a member of a leading corps of thinkers that we should be listening to more carefully." It should come as no surprise that van der Walt echoes the point that failing to "appreciate where and how the cyber landscape is different to traditional domains of conflict," is something that needs to be overcome.
+
+By forcing our understanding of this landscape into preconceived frameworks, he says, we see cyberwar through a lens of understanding previous wars. "One effect of this is that we will overestimate the significance of familiar elements like hacking tools and other cyber weapons," van der Walt continues, "while underestimating other elements like the idea of soft power and the incredible influence that a networked construct like social media can bring to bear."
+
+The soft power of social media influence can make hard impacts
+
+This soft power can have hard impacts, as Boris Cipot, a senior security engineer at Synopsys , explains. "In the case of BTS and their 50 million fans," he says, "I can see them being a cyberthreat. On the one hand, they could be used for marketing purposes, or even used politically."
+
+However, it's when we get to the other hand that the more significant threat emerges, according to Cipot. "One of the biggest threats I see is if bad actors leverage the band's popularity for their personal gain," he says, "a threat actor might share a malicious fandom application, luring fans in. Then, after a few weeks, their devices could be used collectively to launch an attack against a third party; essentially, launching a DDoS attack."
+
+OK, so that's a hypothetical scenario, but scenarios are the key to any threat consideration and manipulation "through recruitment and targeted disinformation," says Morgan Wright, chief security advisor at SentinelOne, "using the fan base to achieve the political objectives of an adversarial nation-state," does not seem such an outrageous scenario hypothesis in the context of threats and risk.
+
+Martin Rudd, CTO at Telesoft Technologies, sees this whole phenomenon as being a representation of information warfare today. "Any well-motivated and reasonably well funded tech-savvy group can exert their own influence in today’s world," he says, "this happens to be K-pop, able to exert their own techno-political influence."
+
+The decentralization of information and power has led to many groups being able to take advantage by way of "influencing elections, Anonymous mounting DDoS attacks using botnets, to the purity of information warfare," Rudd says. "We’re being outplayed," he continues, "they who understand the world and understand how people are getting and digesting data are the ones who are going to win." An argument that applies to all sorts of groups with social media influence, and is certainly not in the sole domain of K-pop it must be said.
+
+Indeed, the whole weaponization of cyberspace argument is not new, as Joe Riggins, a principal security architect at Deep Instinct, reminds us. "What K-pop is doing is bringing it directly upfront and in everyone’s faces. For the most part, K-pop is using their organized social infrastructure that was initially used to fill stadiums with fans, to now support specific political platforms such as social justice," Riggins says. "Just as Anonymous was a hacktivist platform that had members with specific cyber-hacking skills, 'Stan armies' are deploying the same hacktivist initiatives using social media," he concludes.
+
+Thom Langford, an information security analyst at GigaOm, also points out that this is not a new phenomenon. "In the early days of Anonymous, before they became heavily politicized and overtly active," Langford says, "they recruited regular people (housewives, office workers, students, stay at home dads) to carry out the largest DDoS attack at that time. They had no idea what they were doing was highly illegal and disruptive."
+
+There's no great leap of faith required to see how Stans could be mobilized by bad actors while acting in supposed good faith, and it would seem that it's this manipulation potential that the cybersecurity industry is most concerned about when talking in terms of a cyber threat.
+
+“I agree that there is a risk that these fandoms can be mobilized or weaponized by manipulative actors,” a cybersecurity professional and K-pop fan, Vix, says, “ but they are no more susceptible to this than any other naïve young person on the internet, and K-pop Stans are only guilty of being large in number.”
+
+Vix also says that comparing ARMY and K-pop Stans with Anonymous perpetuates ignorant and possibly dangerous ideas about the online fandoms. “The recent media around the threat of K-pop reminds me of the panic that stirred around rock music in the ‘90s when conservatives blamed Marilyn Manson for school shootings,” she says, adding, “I can certainly see why K-pop Stans have piqued the interest of researchers, and they are certainly a social media force to be reckoned with, but comparing them to Anonymous is simply misleading.”
+
+Explaining that K-pop Stans and Anonymous are fundamentally different, “both in skillset and the demographics they represent,” as well as having very different motives, Vix points out that “Anonymous were predominantly white, male internet vigilantes” that sought to disrupt cyber-attacks. “K-pop Stans and ARMY are predominantly female, many from minority ethnic groups, and are more interested in gaming YouTube algorithms to increase music video views than they are with supporting a political agenda,” Vix insists.
+
+So, what about the weaponization of K-pop fancams against the Dallas police that I mentioned earlier? Was this not a hacktivist act with the hallmarks of Anonymous actions? “This was a spontaneous act of activism,” Vix says, “which arose not from a political agenda but from a desire to protect each other from being outed to the police. I think it is important to put it in this context, as the Black Lives Matter movement was close to the heart of many K-pop Stans and ARMY alike.”
+
+“I don’t believe that a couple of spontaneous acts of ‘hacktivism’ and the public flooding of hashtags on Twitter can be compared to the cyber threat of Anonymous,” Vix concludes, “who were purposefully disruptive, defaced websites, hacked emails and launched DDoS attacks for the lulz.”
+
+Who are the potential victims?
+
+However, Jamie Akhtar, CEO and cofounder of CyberSmart, told me that the rise of the Stans has undoubtedly expanded both the range of threat actors and the potential effects of cyber-enabled information warfare. "The pertinent question is," he says, "who are the most likely victims?"
+
+Is this something governments should be concerned about, or 'just' a social media problem? "The reality," Akhtar says, "is this affects us all, and so we all have a part to play." As citizens, we must all take responsibility and educate ourselves on misinformation, report content that is inappropriate and be vigilant when it comes to social engineering, Akhtar tells me. "Collectively we need to create herd immunity against information operations both as individuals and as organizations," he says, "institutions must focus on prevention and deterrence by developing effective means of rapidly detecting the start of indicators that lead to information warfare campaigns and respond with rapid action to prevent digital pandemics from causing chaos."
+
+"K-pop Stans, BTS Army, aren't cyber threats in the normal sense of a malicious act seeking to damage or steal data, or disrupt digital life in general," Kevin Tongs, director of customer success at Flashpoint, says, "they are more the mass mobilization of a unified group of people, using cyber means such as social media, to create influence." In militaristic terms, he insists, these are information operations and not information warfare. Whatever term you apply, though, there seems little doubting that they are already part of the modern threat landscape in the eyes of many security professionals.
+
+"The cyber risks posed by masses of people at one time were known as Anonymous, the hacktivist collective," Chris Grove, technology evangelist at Nozomi Networks, says, "prior to that, internet worms caused masses of people to act in coordination, albeit against their knowledge or consent." At the end of the day, he says, organizations are facing a challenge to keep operations up and running, regardless of who is at the other end of the attack, "be that a cocky hacker, criminal extortion gang, K-pop fans, terrorists, or nation-state actors."
+
+"When groups of people work together to commit the crime of attacking computer systems, they’re no longer music fans," Grove says, "they become criminals at that stage." Grove doesn't, however, expect to see K-pop fans participating in Anonymous-style massive DDoS attacks. "I don’t feel K-pop fans provide anything new to be feared in cybersecurity space," Grove says, "but their social influence and desire to be political is a different story."
+
+Dusting off the old playbook is a great place to start, according to Daniel Smith, a security researcher at Radware. "We can definitely learn from the past," Smith says, "K-pop fans, just like Anonymous, have been engaging in political hacktivism. They operate in cyberspace by weaponizing social media platforms. At the core, the group will engage in mostly legal and naturally flooding of the opposition’s assets or digital presence."
+
+Others might break off in smaller groups to conduct more aggressive operations such as Denial-of-Service attacks, defacements, or information campaigns based off leaked material. "The best way to prepare for political hacktivism activity," Smith advises, "is to monitor not only the threat landscape but also the social climate."
+
+I'll leave the last words to Morgan Wright, chief security advisor at SentinelOne. "I was a senior advisor in the U.S. State Department Antiterrorism Assistance Program, and a senior SME for the U.S. Department of Justice, leading the development of new information and intelligence sharing systems after 9/11," he says.
+
+When, eventually, hearings were held in Congress, and the 9/11 Commission produced a report, one of the critical findings was a failure of imagination according to Wright. "A multitude of biases and limitations on cognitive ability deceive people into thinking they need to collect large amounts of information in order to make a decision and act," Wright says, "keeping up with the threats is much easier today with the amount of companies and government producing threat intelligence."
+
+What remains harder, of course, is the ability to make a decision based on limited information and act. "How do you mitigate a tsunami?" he asks. "Sometimes taking an option that is good enough trumps waiting for the best option to magically appear," Wright says, concluding, "there is no magic answer on how to do this. It depends on so many factors. Organizations need to use elements of the OODA Loop (Observe-Orient-Decide-Act) to remain adaptive and responsive to ever-changing conditions globally.
+
+— Updated September 8 with a rebuttal from a K-pop fan who is also a cybersecurity professional

@@ -1,0 +1,89 @@
+Last fall, Malvo, an indie K-pop artist, was walking to the parking lot after a long day. He had just finished a show at a university festival near Seoul, South Korea. In the lot, a middle-aged man approached the musician, saying he had a "marketing opportunity" for Malvo and his songs. He didn't give his phone number, or his name.
+
+Two days later, as instructed, Malvo met the man and his colleague at a cafe in Seoul. The men, whose names Malvo still doesn't know, looked "ordinary to the extreme," knit sweaters and all. "They told me they could get me 'into the charts,' " Malvo, whose real name is Lee Beomju, tells NPR. "I realized this wasn't a regular marketing offer. This was music sajaegi."
+
+Some may be familiar with the term sajaegi through BTS, the boy group and K-pop wonder whose new album, Map of the Soul: 7, has just been released. BTS subtly brought some attention to online chart manipulation last December. "How about creating music using more honest means," said BTS member Jin at the Mnet Asian Music Awards, where the group won nine awards, including album of the year.
+
+In Korea, sajaegi generally refers to the illegal bulk-buying of any item — for example, a firm in South Korea recently sajaegi-ed over four million face-masks due to fears over the coronavirus outbreak.
+
+But in music, sajaegi has a more specific meaning — unethically and/or illegally boosting a chart ranking. For example, entertainment agencies bulk-buying their own CDs; or, probably more likely in the digital era, using bots or computer farms to repeatedly stream songs and hike up chart numbers. Sajaegi scandals are testing the Korean music industry, questioning the credibility of online charts, entertainment agencies and even some fan engagement.
+
+Not easy to pin down
+
+"Sajaegi has been around for a long time," argues Shin Daechul, a renowned musician who debuted with the legendary rock group Sinawe in 1986, and who now also works an artists' rights advocate at Bareun Music Cooperative. In the digital age, Shin tells NPR, "the media have changed, but the idea is the same. The methods have just gotten more covert."
+
+On a neat powerpoint presentation, the men walked Malvo through a range of options, including the highest: getting to the top of the charts, which would cost him more than 300 million Korean won (over $250,000). Malvo isn't the only one with this experience — others have spoken out on being approached, including Tiger JK, one of Korea's biggest hip-hop acts.
+
+"I once got an offer for 100 million won [around $84,000] to go higher in the charts," said Tiger JK in January on Unanswered Questions, a documentary series produced by broadcaster SBS. His 2015 song "I Know" alludes to the incident with the lyrics, "Do you really cost 100 million won?"
+
+One of the most infamous sajaegi scandals in recent K-music history probably concerns Nilo. If you're a major K-pop fan and have never heard of him, you're probably not alone.
+
+In 2018, one of Nilo's songs hit No.1 on Melon, the biggest music streaming platform in Korea. The feat sparked intense accusations of sajaegi against the virtually unknown-at-the-time singer, leaving his headlining song on Youtube filled with commenters mocking his allegedly fake No. 1.
+
+He's not the only one suspected. Last November, Park Kyung, a member of boy band Block B, sarcastically said, in a now-deleted tweet, "I want to do sajaegi too, like Vibe, Song Ha-ye, Lim Jae-hyun, Jeon Sang-keun, Jang Deok-cheol and Hwang In-wook."
+
+Those six artists subsequently sued Park Kyung for defamation. But Park's agency has vowed to defend the Block B singer, saying they want to get to the bottom of the rumors of chart manipulation, which is illegal under Korean law and punishable with 20 million won in fines (around $16,800) or up to two years in prison.
+
+According to the national police's Cyber Investigation Department, police are currently investigating music sajaegi cases. But the department didn't have precise statistics about how many cases there were, or if anyone has ever been punished for the practice.
+
+"Charts are supposed to be leading the music industry," tweeted Hong Seung-sung, founder of Cube Entertainment, a prominent K-pop agency. "But they've become sajaegi puppets."
+
+Despite the size of the scandal, which has made headlines in the Korean music industry more than once in the last decade, it's actually not clear how sajaegi schemes operate in the music industry, nor even how commonly they occur.
+
+Multiple sources from the SBS documentary suggested that entertainment agencies hire firms claiming to be "marketing companies," who then supposedly communicate with shady tech firms through brokers — none of whose identities are known.
+
+"I don't think it's right to think of sajaegi firms working only with companies," argued the head of JYP, one of Korea's biggest labels, in 2015. "These firms can be hired by individuals within labels, or composers, or even the artist. There are many possibilities."
+
+There's smoke everywhere, but no substantial proof that any of the sajaegi rumors are real. In 2013, JYP and three other major labels formally asked prosecutors to investigate sajaegi. Prosecutors dropped the request, saying there wasn't enough evidence. In 2018, Nilo and his agency, claiming innocence against accusations, asked the Ministry of Culture to investigate the matter. The ministry study proved inconclusive.
+
+"When we spotted irregular streaming patterns, there was no way of knowing if the listener was a fan or some [sajaegi]account," an anonymous Ministry rep told Nocut News.
+
+"Almost everyone, especially on the music production side, knows that sajaegi exists," Shin tells NPR. "It's so common that people just keep their mouths shut. Too many interests are tied in together."
+
+Not everyone is convinced that sajaegi is all that common.
+
+Can't try this at home
+
+"It's not as simple as developing some automated program [that can stream music repeatedly]," said Chanam Park, CEO of Stealien, a hacker-run cyber security firm that has consulted for Melon in the past and whose staff have met with major entertainment companies to discuss the sajaegi problem.
+
+Technically speaking, according to Park, a sajaegi scheme would likely involve either of two approaches: one, somehow go around a music site's various security measures and change the ranking directly. Second, own "an incredible amount" of IDs on a platform (like Spotify or Melon), and use them to stream music on different devices, e.g. at a computer farm.
+
+The former is just as difficult to do as the latter, says Park. Hacking any major music platform is hard, considering the kind of precautions platforms take. Hypothetically, even if someone managed to, somehow, get large quantities of IDs, whether fake or stolen, the sajaegi scheme would need a near-perfect sense of timing.
+
+"Let's say you're sajaegi-ing an album at the same time IU [a major K-pop star] releases one. Then owning just tens of thousands of IDs wouldn't even cut close," says Donghwi Shin, Stealien's senior vice president of research. "If you want to be No.1, there are so many conditions that need to be satisfied. It's really not that easy."
+
+Mark Mulligan, a long-time music industry analyst at MIDiA Research, agrees. On technological manipulations, "streaming services normally have a series of measures that stop suspicious behavior quite early on," Mulligan says. "They have done a really good job of making those incidents a small part of the whole mix. The incidents happen, but they're not a meaningful part of the mix."
+
+A genre with the "most" fans
+
+Perhaps the larger question in the sajaegi scandal is defining what "online chart manipulation" even means in the digital era.
+
+Mulligan says technological manipulations are "easier for tech firms to deal with. What [streaming services] can't deal with at the moment is fanbases doing it. And K-pop artists have got that asset unlike any other fanbase."
+
+"The fan behavior of K-pop artists is beginning to transform the global landscape for fanbases," argues Mulligan.
+
+K-pop fans are famous for their incredible mobilization, including planting a rainforest for their favorite artist and buying expensive ads in Times Square. There's even a Korean fan-slang word for streaming an artist repeatedly to boost chart numbers: sumseuming, or "streaming 24/7 as one breathes."
+
+Can fan mobilization be manipulative, like sajaegi? Some superfans have allegedly gone too far, using multiple accounts and devices to mess with streaming data. In 2017, after a government request, Korean music services even changed their real-time ranking systems, to reduce chart manipulation by fans.
+
+"We're just trying to support our idols," says Lamia Putri, a BTS fan from Yogyakarta, Indonesia. Putri doesn't engage in endless streaming, because she has a full-time job.
+
+To her, fan streaming is a form of engagement. Whereas sajaegi is"unfair. It's outside our control. It's created by people who have power. We're only fans. We can't do anything but get angry."
+
+"If you listen all day on just one device, it's not manipulation. I think that's normal," she laughs. "I mean, I don't think that's normal, but I think it's okay. There's no policy that you should stop listening to music on a platform after a certain period of time."
+
+Mulligan agrees. "If streaming services try to shut this stuff down, they're actually stopping valid fan engagement. There are no rules in streaming services in how much you're allowed to listen to one song. Nor should there be."
+
+To observers like Mulligan, online charts are becoming an increasingly outdated tool to measure music.
+
+"The success of an artist goes way beyond streaming itself," Mulligan says. "But record labels still compete with each other for market share based on chart position."
+
+Despite the complexity of the music industry in the digital era, a narrow focus on online ranking is what drives the supposed sajaegi schemes in South Korea. "Unfortunately, charts are still seen as the only way to show an artist is top-class," says Shin. "We often say, 'out of sight, out of mind.' If you don't see the music on the charts, they seem to naturally go extinct."
+
+Putri doesn't agree. "Sure, online charts are important. But there are so many musicians in the world. I don't think my idol has to be the first on the charts. As long as they have good music, it's okay."
+
+The sajaegi problem is casting a shadow over the Korean music scene. But it's also triggering a much-needed debate. More prominent artists are speaking out, condemning the practice. Experts are discussing how to reassess the music charts in the digital era.
+
+Meanwhile, Malvo is unfazed, determined to continue doing music the way he likes. "Those guys [who offered sajaegi] asked me, 'How long are you going to keep doing music that doesn't even enter the charts?' I think, isn't doing sajaegi more toxic? Isn't it like drinking the Holy Grail full of poison?"
+
+Haeryun Kang is a freelance journalist based in Seoul and the creative director of videocusIN, a media incubator.
