@@ -1,0 +1,45 @@
+Samples: 52K of event 'mem-stores', Event count (approx.): 3629448936
+Overhead  Command          Shared Object               Symbol
+  13.27%  capture thread   zoom                        [.] 0x00000000019a8726
+  11.66%  capture thread   libc-2.27.so                [.] __memset_avx2_erms
+   5.62%  capture thread   [kernel.kallsyms]           [k] copy_user_enhanced_fast_string
+   5.22%  capture thread   [kernel.kallsyms]           [k] clear_page_erms
+   4.29%  capture thread   zoom                        [.] 0x00000000019a8720
+   3.26%  capture thread   zoom                        [.] 0x00000000019a872d
+   2.38%  vcap_thread      libturbojpeg.so             [.] decode_mcu
+   1.54%  capture thread   zoom                        [.] 0x00000000019a8729
+   1.43%  capture thread   libc-2.27.so                [.] __memmove_avx_unaligned_erms
+   0.83%  vcap_thread      libturbojpeg.so             [.] jsimd_idct_islow_avx2.columnDCT
+   0.79%  vcap_thread      libturbojpeg.so             [.] decompress_onepass
+   0.79%  vcap_thread      libturbojpeg.so             [.] jpeg_fill_bit_buffer
+   0.72%  capture thread   [kernel.kallsyms]           [k] memset_erms
+   0.38%  zlt.tid8352      zoom                        [.] 0x000000000254f357
+   0.38%  zlt.tid8351      zoom                        [.] 0x000000000254f357
+   0.36%  zlt.tid8350      zoom                        [.] 0x000000000254f357
+   0.34%  zlt.tid8353      zoom                        [.] 0x000000000254f357
+   0.27%  vcap_thread      libc-2.27.so                [.] __memset_avx2_unaligned_erms
+   0.26%  vda_thread       zoom                        [.] 0x00000000026740fe
+   0.25%  webrtc_audio_mo  libc-2.27.so                [.] __memset_avx2_erms
+   0.25%  capture thread   [kernel.kallsyms]           [k] get_page_from_freelist
+   0.19%  capture thread   [kernel.kallsyms]           [k] kernel_init_free_pages
+   0.19%  capture thread   [kernel.kallsyms]           [k] __alloc_skb
+   0.18%  vcap_thread      libturbojpeg.so             [.] jsimd_idct_islow_avx2
+   0.18%  capture thread   [kernel.kallsyms]           [k] _raw_spin_lock_irqsave
+   0.17%  capture thread   [kernel.kallsyms]           [k] prep_new_page
+   0.16%  zlt.tid8351      zoom                        [.] 0x00000000026e7464
+   0.15%  zlt.tid8353      zoom                        [.] 0x00000000026e7464
+   0.15%  frame thread     [kernel.kallsyms]           [k] copy_user_enhanced_fast_string
+   0.15%  capture thread   [kernel.kallsyms]           [k] rcu_all_qs
+   0.13%  zlt.tid8350      zoom                        [.] 0x00000000026e7464
+   0.12%  zlt.tid8351      zoom                        [.] 0x00000000026cf3a8
+   0.12%  vda_thread       zoom                        [.] 0x00000000026740f9
+   0.11%  capture thread   [kernel.kallsyms]           [k] __alloc_pages_nodemask
+   0.11%  zlt.tid8351      zoom                        [.] 0x00000000026e7484
+   0.11%  zlt.tid8352      zoom                        [.] 0x00000000026e7464
+   0.10%  zlt.tid8353      zoom                        [.] 0x00000000026e7484
+   0.10%  capture thread   [kernel.kallsyms]           [k] ep_poll_callback
+   0.10%  zlt.tid8350      zoom                        [.] 0x00000000026cf3a0
+   0.10%  zlt.tid8352      zoom                        [.] 0x00000000026e7484
+   0.09%  zlt.tid8351      libc-2.27.so                [.] __memset_avx2_unaligned_erms
+   0.09%  vcap_thread      libturbojpeg.so             [.] jpeg_huff_decode
+

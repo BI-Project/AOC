@@ -1,0 +1,44 @@
+Samples: 54K of event 'cache-references', Event count (approx.): 1076273951
+Overhead  Command          Shared Object               Symbol
+  21.54%  capture thread   [kernel.kallsyms]           [k] copy_user_enhanced_fast_string                                                                              ◆
+  18.57%  capture thread   libc-2.27.so                [.] __memset_avx2_erms                                                                                          ▒
+   5.65%  capture thread   [kernel.kallsyms]           [k] clear_page_erms                                                                                             ▒
+   3.97%  capture thread   zoom                        [.] 0x00000000019a8726                                                                                          ▒
+   3.90%  capture thread   libc-2.27.so                [.] __memmove_avx_unaligned_erms                                                                                ▒
+   0.98%  capture thread   zoom                        [.] 0x00000000019a8720                                                                                          ▒
+   0.80%  capture thread   [kernel.kallsyms]           [k] memset_erms                                                                                                 ▒
+   0.66%  capture thread   zoom                        [.] 0x00000000019a8729                                                                                          ▒
+   0.64%  capture thread   zoom                        [.] 0x00000000019a872d                                                                                          ▒
+   0.45%  capture thread   [kernel.kallsyms]           [k] get_page_from_freelist                                                                                      ▒
+   0.42%  webrtc_audio_mo  libc-2.27.so                [.] __memset_avx2_erms                                                                                          ▒
+   0.27%  frame thread     [kernel.kallsyms]           [k] copy_user_enhanced_fast_string                                                                              ▒
+   0.27%  capture thread   [kernel.kallsyms]           [k] page_counter_try_charge                                                                                     ▒
+   0.26%  vda_thread       libc-2.27.so                [.] __memmove_avx_unaligned_erms                                                                                ▒
+   0.25%  capture thread   [kernel.kallsyms]           [k] prep_new_page                                                                                               ▒
+   0.25%  vcap_thread      libturbojpeg.so             [.] jsimd_idct_islow_avx2.column_end                                                                            ▒
+   0.24%  zlt.tid8353      zoom                        [.] 0x000000000254f357                                                                                          ▒
+   0.24%  vcap_thread      libc-2.27.so                [.] __memmove_avx_unaligned_erms                                                                                ▒
+   0.23%  zlt.tid8352      zoom                        [.] 0x000000000254f357                                                                                          ▒
+   0.23%  zlt.tid8351      zoom                        [.] 0x000000000254f357                                                                                          ▒
+   0.23%  capture thread   [kernel.kallsyms]           [k] memcg_kmem_get_cache                                                                                        ▒
+   0.23%  vcap_thread      libturbojpeg.so             [.] decode_mcu                                                                                                  ▒
+   0.22%  zlt.tid8353      zoom                        [.] 0x00000000026e7464                                                                                          ▒
+   0.22%  zlt.tid8350      zoom                        [.] 0x000000000254f357                                                                                          ▒
+   0.20%  zlt.tid8351      zoom                        [.] 0x00000000026e7464                                                                                          ▒
+   0.19%  zlt.tid8352      zoom                        [.] 0x00000000026e7464                                                                                          ▒
+   0.19%  zlt.tid8350      zoom                        [.] 0x00000000026e7464                                                                                          ▒
+   0.19%  capture thread   [kernel.kallsyms]           [k] kernel_init_free_pages                                                                                      ▒
+   0.19%  capture thread   [kernel.kallsyms]           [k] __ksize                                                                                                     ▒
+   0.19%  capture thread   [kernel.kallsyms]           [k] _raw_spin_lock_irqsave                                                                                      ▒
+   0.18%  QSGRenderThread  i965_dri.so                 [.] 0x00000000006296ac                                                                                          ▒
+   0.17%  zoom             zoom                        [.] 0x00000000026771be                                                                                          ▒
+   0.17%  webrtc_audio_mo  zoom                        [.] 0x00000000021a435d                                                                                          ▒
+   0.16%  webrtc_audio_mo  libc-2.27.so                [.] __memmove_avx_unaligned_erms                                                                                ▒
+   0.16%  QSGRenderThread  i965_dri.so                 [.] 0x00000000006296d4                                                                                          ▒
+   0.16%  QSGRenderThread  i965_dri.so                 [.] 0x00000000006296c4                                                                                          ▒
+   0.14%  capture thread   [kernel.kallsyms]           [k] get_mem_cgroup_from_mm                                                                                      ▒
+   0.14%  zlt.tid8353      zoom                        [.] 0x000000000254f362                                                                                          ▒
+   0.14%  zoom             libc-2.27.so                [.] __memmove_avx_unaligned_erms                                                                                ▒
+   0.14%  zlt.tid8351      zoom                        [.] 0x000000000254f362                                                                                          ▒
+   0.14%  zlt.tid8352      zoom                        [.] 0x000000000254f362                                                                                          ▒
+   0.14%  zlt.tid8350      zoom                        [.] 0x000000000254f362            
